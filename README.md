@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Divulgação para o PUB Ninho do Urubu
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei uma campanha de divulgação que inclui roteiro, arte visual e criação de áudio com IA para a inauguração de um PUB. Nosso principal objetivo é atrair os diversos torcedores de forma animada para a inauguração.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing Chat da Microsoft.
+Leonardo AI.
+ElevenLab.
+HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+De inicio usei o Bing Chat para criar uma chamada com as seguintes descrições:"Criei uma campanha de divulgação que inclui roteiro, arte visual e criação de áudio com IA para a inauguração de um PUB. Nosso principal objetivo é atrair os diversos torcedores de forma animada para a inauguração."
+Apos o Bing Chat criar fui ao Leonardo AI para criar uma imagem de apenas hum torcedor com uma camisa azul, verde e amarela em um pub.
+No ElevenLabs fiz a escolha da voz e e coloquei o texto criado pelo Bing Chat para gerar a voz.
+Para concluir foi usado o HeyGen para gerar o video. A Imagem que foi usada foi do Leonardo AI e o audio foi usado do ElevenLab.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ao final foi criado um video de uma Homem fazendo uma chamada para a inauguração do PUB.
+segue o link do resultado:https://app.heygen.com/share/33988916f02f405891d7175b404b1894
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Com os videos do curso da DIO, o que era super dificil de fazer por conta da ordem e de que site de IA usar para cada etapa, ficou mais facil e prático.
